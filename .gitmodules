@@ -1,0 +1,6 @@
+[submodule "rpi-pong-server"]
+	path = rpi-pong-server
+	url = https://github.com/maxtek6/rpi-pong-server
+[submodule "rpi-pong-client"]
+	path = rpi-pong-client
+	url = https://github.com/maxtek6/rpi-pong-client
