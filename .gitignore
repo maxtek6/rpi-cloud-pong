@@ -1,0 +1,2 @@
+# Ignore generated header filer from flatbuffers schema
+generated/
